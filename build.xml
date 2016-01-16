@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="build-dinghy-ics" name="build ICS Calenda">
+
+	
+	<property file="${basedir}/build.properties"/>
+	
+	<property name="tmp.dir" value="/home/mjrw/ltree-digital-pubs/tmp"/>
+	<property name="dinghy-output-file" value="xml/output-dinghy.ics"/>
+	<property name="dinghy-output-xml-file" value="xml/output-dinghy.xml"/>
+	<property name="cruiser-output-xml-file" value="xml/output-cruiser.xml"/>
+	<property name="dinghy-style-file" value="xslt/dinghy-to-ics.xsl"/>
+	<property name="dinghy-std-xml-style-file" value="xslt/dinghy-to-std-xml.xsl"/>
+	<property name="merge-file" value="xslt/merge.xsl"/>
+	<property name="cruiser-std-xml-style-file" value="xslt/cruisers-to-std-xml.xsl"/>
+	<property name="dinghy-input-xml-file" value="xml/dinghies-2016.fods"/>
+	<property name="repeated-cols-dinghy-style-file" value="xslt/expand-repeated-columns.xsl"/>
+	<property name="tmp-dinghy-output-file" value="xml/tmp-dinghy-input.xml"/>	
+	<property name="combined-input-file" value="xml/combined.xml"/>
+	<property name="combined-to-csv-style-file" value="xslt/combined-to-csv.xsl"/>
+	<property name="combined-csv-file" value="xml/combined.csv"/>
+	<property name="wrapper-file" value="xml/wrapper.xml"/>
+	
+	
+	<property name="cruiser-output-file" value="xml/output-cruiser.ics"/>
+	<property name="cruiser-style-file" value="xslt/cruisers-to-ics.xsl"/>
+	<property name="cruiser-input-xml-file" value="xml/cruisers-2016.fods"/>
+	<property name="repeated-cols-cruiser-style-file" value="xslt/expand-repeated-columns.xsl"/>
+	<property name="tmp-cruiser-output-file" value="xml/tmp-cruiser-input.xml"/>		
+	
+	<property name="saxon" value="saxon9.jar"/>
+		
+	<!-- default properties -->
+	<property name="jar.location" value="/home/mjrw/ltree-digital-pubs/jars"/>
+	
+	
+	<target name="build-cruiser-ics" depends="expand-repeated-columns-cruisers" >
+		
+		<delete file="${cruiser-output-file}"/>
+		<echo message="Creating cruiser ICS"></echo>
+		<xslt style="${cruiser-style-file}"
+			in="${tmp-cruiser-output-file}"
+			out="${cruiser-output-file}">
+			
+			<factory name="net.sf.saxon.TransformerFactoryImpl"/>
+			
+			<outputproperty name="encoding" value="utf-8"/>
+			
+			<classpath location="${jar.location}/${saxon}"/>
+			
+		</xslt>
+		
+	</target>	
+	
+	<target name="build-dinghy-ics" depends="expand-repeated-columns">
+		
+		<delete file="${dinghy-output-file}"/>
+		<echo message="Creating Dinghy ICS"></echo>
+		<xslt style="${dinghy-style-file}"
+			in="${tmp-dinghy-output-file}"
+			out="${dinghy-output-file}">
+			
+			<factory name="net.sf.saxon.TransformerFactoryImpl"/>
+			
+			<outputproperty name="encoding" value="utf-8"/>
+			
+			<classpath location="${jar.location}/${saxon}"/>
+			
+		</xslt>
+		
+	</target>
+	
+	
+	
+	<target name="build-dinghy-std-xml" depends="expand-repeated-columns">
+		
+		<delete file="${dinghy-output-file}"/>
+		<echo message="Creating Dinghy ICS"></echo>
+		<xslt style="${dinghy-std-xml-style-file}"
+			in="${tmp-dinghy-output-file}"
+			out="${dinghy-output-xml-file}">
+			
+			<factory name="net.sf.saxon.TransformerFactoryImpl"/>
+			
+			<outputproperty name="encoding" value="utf-8"/>
+			
+			<classpath location="${jar.location}/${saxon}"/>
+			
+		</xslt>
+		
+	</target>	
+
+	
+	<target name="merge" >
+		
+		<delete file="${combined-csv-file}"/>
+		<echo message="Creating Dinghy ICS"></echo>
+		<xslt style="${merge-file}"
+			in="${wrapper-file}"
+			out="${combined-input-file}"
+			force="true">
+			
+			<param name="file1" expression="../${dinghy-output-xml-file}" type="STRING"/>
+			<param name="file2" expression="../${cruiser-output-xml-file}" type="STRING"/>			
+			<factory name="net.sf.saxon.TransformerFactoryImpl"/>
+			
+			<outputproperty name="encoding" value="utf-8"/>
+			
+			<classpath location="${jar.location}/${saxon}"/>
+			
+		</xslt>
+		
+	</target>	
+	
+	<target name="build-combined-csv" depends="merge">
+		
+		<echo message="Creating Dinghy ICS"></echo>
+		<xslt style="${combined-to-csv-style-file}"
+			in="${combined-input-file}"
+			out="${combined-csv-file}"
+			force="true">
+
+			<factory name="net.sf.saxon.TransformerFactoryImpl"/>
+			
+			<outputproperty name="encoding" value="utf-8"/>
+			
+			<classpath location="${jar.location}/${saxon}"/>
+			
+		</xslt>
+		
+	</target>		
+	
+	<target name="build-cruiser-std-xml" depends="expand-repeated-columns-cruisers">
+		
+		<delete file="${cruiser-output-file}"/>
+		<echo message="Creating Cruiser Standard XML"></echo>
+		<xslt style="${cruiser-std-xml-style-file}"
+			in="${tmp-cruiser-output-file}"
+			out="${cruiser-output-xml-file}">
+			
+			<factory name="net.sf.saxon.TransformerFactoryImpl"/>
+			
+			<outputproperty name="encoding" value="utf-8"/>
+			
+			<classpath location="${jar.location}/${saxon}"/>
+			
+		</xslt>
+		
+	</target>		
+	
+	<!-- The fods file has annoying elements with an attribute of number-columns-repeated which is used if the element does repeat
+	This transform duplicates those elements -->
+	<target name="expand-repeated-columns-cruisers" >
+		
+		<delete file="${tmp-cruiser-output-file}"/>
+		<echo message="Expanding repeated columns"></echo>
+		<xslt style="${repeated-cols-cruiser-style-file}"		
+			in="${cruiser-input-xml-file}"
+			out="${tmp-cruiser-output-file}">
+			
+			<factory name="net.sf.saxon.TransformerFactoryImpl"/>
+			
+			<outputproperty name="encoding" value="utf-8"/>
+			
+			<classpath location="${jar.location}/${saxon}"/>
+			
+		</xslt>
+		
+	</target>
+	
+	<target name="expand-repeated-columns" >
+		
+		<delete file="${tmp-dinghy-output-file}"/>
+		<echo message="Expanding repeated columns"></echo>
+		<xslt style="${repeated-cols-dinghy-style-file}"		
+			in="${dinghy-input-xml-file}"
+			out="${tmp-dinghy-output-file}">
+			
+			<factory name="net.sf.saxon.TransformerFactoryImpl"/>
+			
+			<outputproperty name="encoding" value="utf-8"/>
+			
+			<classpath location="${jar.location}/${saxon}"/>
+			
+		</xslt>
+		
+	</target>	
+
+</project>

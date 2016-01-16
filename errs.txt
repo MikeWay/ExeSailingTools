@@ -1,0 +1,10 @@
+Buildfile: /home/mjrw/workspace-mars/ESC_Calendar/build.xml
+
+build-ics:
+   [delete] Deleting: /home/mjrw/workspace-mars/ESC_Calendar/xml/output.xml
+     [echo] Creating slides-fo
+     [xslt] Processing /home/mjrw/workspace-mars/ESC_Calendar/xml/input.xml to /home/mjrw/workspace-mars/ESC_Calendar/xml/output.xml
+     [xslt] Loading stylesheet /home/mjrw/workspace-mars/ESC_Calendar/xslt/to-ics.xsl
+
+BUILD SUCCESSFUL
+Total time: 0 seconds

@@ -1,0 +1,484 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>SYC Steamer</strong></p><p>Tide: 11.41 HW: 3.5M </p><p>Race Time: 10.30 AM<p>
+SUMMARY:SYC Steamer<p>River Start</p>
+DTSTART;TZID=Europe/London:20160117T10:30
+DTEND;TZID=Europe/London:20160117T22:30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wimbleball Beastie</strong></p><p>Race Time: 12.00 AM<p>
+SUMMARY:Wimbleball Beastie<p>River Start</p>
+DTSTART;TZID=Europe/London:20160320T12:00
+DTEND;TZID=Europe/London:20160321T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Easter</strong></p>
+SUMMARY:Easter<p>River Start</p>
+DTSTART;TZID=Europe/London:20160327T00:00
+DTEND;TZID=Europe/London:20160328T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Sunday Series</strong></p><p>Tide: 9.38 HW: 4.2M </p>3Race(s),<p>Race Time: 10.00 AM<p>
+SUMMARY:Sunday Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20160410T10:00
+DTEND;TZID=Europe/London:20160410T12:45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>King Cup</strong></p><p>Tide: 17.37 LW: 0.8M </p>1Race(s),Start-Box Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:King Cup<p>Start-Box Start.</p>
+DTSTART;TZID=Europe/London:20160413T07:00
+DTEND;TZID=Europe/London:20160413T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Saturday Series 1</strong></p><p>Tide: 15.2 HW: 2.7M </p>3Race(s),<p>Race Time: 2.00 PM<p>
+SUMMARY:Saturday Series 1<p>River Start</p>
+DTSTART;TZID=Europe/London:20160416T02:00
+DTEND;TZID=Europe/London:20160416T04:45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 1</strong></p><p>Tide: 18.47 HW: 3.6M </p>1Race(s),Up-Spirits Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 1<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160420T07:00
+DTEND;TZID=Europe/London:20160420T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Saturday Series 1</strong></p><p>Tide: 14.31 LW: 0.4M </p>2Race(s),<b>At Sea</b><p>Race Time: 2.45 PM<p>
+SUMMARY:Saturday Series 1<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160423T02:45
+DTEND;TZID=Europe/London:20160423T04:40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 1</strong></p><p>Tide: 22.27 HW: 3.4M </p>1Race(s),Start-Box Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 1<p>Start-Box Start.</p>
+DTSTART;TZID=Europe/London:20160427T07:00
+DTEND;TZID=Europe/London:20160427T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Sunday Series</strong></p><p>Tide: 13.48 HW: 2.8M </p>2Race(s),<b>At Sea</b><p>Race Time: 12.00 AM<p>
+SUMMARY:Sunday Series<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160501T12:00
+DTEND;TZID=Europe/London:20160501T13:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>King Cup</strong></p><p>Tide: 15.13 HW: 3M </p>1Race(s),<p>Race Time: 2.00 PM<p>
+SUMMARY:King Cup<p>River Start</p>
+DTSTART;TZID=Europe/London:20160502T02:00
+DTEND;TZID=Europe/London:20160502T03:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>King Cup</strong></p><p>Tide: 17.33 HW: 3.7M </p>1Race(s),Up-Spirits Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:King Cup<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160504T07:00
+DTEND;TZID=Europe/London:20160504T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Saturday Series 1</strong></p><p>Tide: 14.01 LW: -0.1M </p>2Race(s),<b>At Sea</b><p>Race Time: 2.15 PM<p>
+SUMMARY:Saturday Series 1<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160507T02:15
+DTEND;TZID=Europe/London:20160507T04:10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 1</strong></p><p>Tide: 22.54 HW: 3.7M </p>1Race(s),Up-Spirits Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 1<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160511T07:00
+DTEND;TZID=Europe/London:20160511T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>RSFeva Open</strong></p><p>Tide: 13.31 HW: 2.7M </p>
+SUMMARY:RSFeva Open<p>River Start</p>
+DTSTART;TZID=Europe/London:20160514T00:00
+DTEND;TZID=Europe/London:20160515T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Sunday Series</strong></p><p>Tide: 14.38 HW: 2.7M </p>2Race(s),<b>At Sea</b><p>Race Time: 1.00 PM<p>
+SUMMARY:Sunday Series<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160515T01:00
+DTEND;TZID=Europe/London:20160515T02:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 1</strong></p><p>Tide: 17.26 HW: 3.2M </p>1Race(s),Start-Box Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 1<p>Start-Box Start.</p>
+DTSTART;TZID=Europe/London:20160518T07:00
+DTEND;TZID=Europe/London:20160518T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Sunday Series</strong></p><p>Tide: 13.57 LW: 0.5M </p>2Race(s),<b>At Sea</b><p>Race Time: 2.15 PM<p>
+SUMMARY:Sunday Series<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160522T02:15
+DTEND;TZID=Europe/London:20160522T04:10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 1</strong></p><p>Tide: 21.42 HW: 3.7M </p>1Race(s),Up-Spirits Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 1<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160525T07:00
+DTEND;TZID=Europe/London:20160525T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Super Nova Open</strong></p><p>Tide: 11.28 HW: 3.1M </p>
+SUMMARY:Super Nova Open<p>River Start</p>
+DTSTART;TZID=Europe/London:20160528T00:00
+DTEND;TZID=Europe/London:20160529T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Super Nova Open</strong></p><p>Tide: 12.21 HW: 3M </p>
+SUMMARY:Super Nova Open<p>River Start</p>
+DTSTART;TZID=Europe/London:20160529T00:00
+DTEND;TZID=Europe/London:20160530T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>King Cup</strong></p><p>Tide: 13.26 HW: 2.9M </p>1Race(s),<b>At Sea</b><p>Race Time: 12.00 AM<p>
+SUMMARY:King Cup<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160530T12:00
+DTEND;TZID=Europe/London:20160530T13:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>King Cup</strong></p><p>Tide: 22.11 LW: 0.8M </p>1Race(s),Start-Box Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:King Cup<p>Start-Box Start.</p>
+DTSTART;TZID=Europe/London:20160601T07:00
+DTEND;TZID=Europe/London:20160601T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Sunday Series</strong></p><p>Tide: 13.41 LW: 0.1M </p>2Race(s),<b>At Sea</b><p>Race Time: 2.00 PM<p>
+SUMMARY:Sunday Series<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160605T02:00
+DTEND;TZID=Europe/London:20160605T03:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 1</strong></p><p>Tide: 21.58 HW: 3.9M </p>1Race(s),Up-Spirits Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 1<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160608T07:00
+DTEND;TZID=Europe/London:20160608T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Saturday Series 1</strong></p><p>Tide: 17.45 LW: 0.9M </p>3Race(s),<p>Race Time: 2.00 PM<p>
+SUMMARY:Saturday Series 1<p>River Start</p>
+DTSTART;TZID=Europe/London:20160611T02:00
+DTEND;TZID=Europe/London:20160611T04:45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>2RJS ESC</strong></p><p>Tide: 12.36 HW: 2.8M </p>
+SUMMARY:2RJS ESC<p>River Start</p>
+DTSTART;TZID=Europe/London:20160612T00:00
+DTEND;TZID=Europe/London:20160613T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 1</strong></p><p>Tide: 21.35 LW: 1.2M </p>1Race(s),Start-Box Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 1<p>Start-Box Start.</p>
+DTSTART;TZID=Europe/London:20160615T07:00
+DTEND;TZID=Europe/London:20160615T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Saturday Series 1</strong></p><p>Tide: 18.17 HW: 3.5M </p>3Race(s),<p>Race Time: 4.00 PM<p>
+SUMMARY:Saturday Series 1<p>River Start</p>
+DTSTART;TZID=Europe/London:20160618T04:00
+DTEND;TZID=Europe/London:20160618T06:45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 1</strong></p><p>Tide: 20.58 HW: 3.8M </p>1Race(s),Up-Spirits Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 1<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160622T07:00
+DTEND;TZID=Europe/London:20160622T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Orestone Cruiser Race</strong></p><p>Tide: 10.36 HW: 3.5M </p>
+SUMMARY:Orestone Cruiser Race<p>River Start</p>
+DTSTART;TZID=Europe/London:20160625T00:00
+DTEND;TZID=Europe/London:20160626T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Sunday Series</strong></p><p>Tide: 11.18 HW: 3.4M </p>3Race(s),<p>Race Time: 10.00 AM<p>
+SUMMARY:Sunday Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20160626T10:00
+DTEND;TZID=Europe/London:20160626T12:45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 2</strong></p><p>Tide: 20.13 LW: 1M </p>1Race(s),Start-Box Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 2<p>Start-Box Start.</p>
+DTSTART;TZID=Europe/London:20160629T07:00
+DTEND;TZID=Europe/London:20160629T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Saturday Series 2</strong></p><p>Tide: 17.42 HW: 3.7M </p>3Race(s),<p>Race Time: 4.00 PM<p>
+SUMMARY:Saturday Series 2<p>River Start</p>
+DTSTART;TZID=Europe/London:20160702T04:00
+DTEND;TZID=Europe/London:20160702T06:45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>King Cup</strong></p><p>Tide: 21.01 HW: 4M </p>1Race(s),Up-Spirits Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:King Cup<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160706T07:00
+DTEND;TZID=Europe/London:20160706T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Kayak Rally Exeter-ESC</strong></p><p>Tide: 10.41 HW: 3.5M </p>
+SUMMARY:Kayak Rally Exeter-ESC<p>River Start</p>
+DTSTART;TZID=Europe/London:20160709T00:00
+DTEND;TZID=Europe/London:20160710T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Sunday Series</strong></p><p>Tide: 11.13 HW: 3.2M </p>3Race(s),<p>Race Time: 10.00 AM<p>
+SUMMARY:Sunday Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20160710T10:00
+DTEND;TZID=Europe/London:20160710T12:45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 2</strong></p><p>Tide: 19.25 LW: 1.3M </p>1Race(s),Start-Box Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 2<p>Start-Box Start.</p>
+DTSTART;TZID=Europe/London:20160713T07:00
+DTEND;TZID=Europe/London:20160713T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Exe Regatta LSC</strong></p><p>Tide: 16.5 HW: 3.1M </p>
+SUMMARY:Exe Regatta LSC<p>River Start</p>
+DTSTART;TZID=Europe/London:20160716T00:00
+DTEND;TZID=Europe/London:20160717T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Exe Regatta LSC</strong></p><p>Tide: 11.16 LW: 0.9M </p>
+SUMMARY:Exe Regatta LSC<p>River Start</p>
+DTSTART;TZID=Europe/London:20160717T00:00
+DTEND;TZID=Europe/London:20160718T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 2</strong></p><p>Tide: 20.05 HW: 3.9M </p>1Race(s),Up-Spirits Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 2<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160720T07:00
+DTEND;TZID=Europe/London:20160720T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Saturday Series 2</strong></p><p>Tide: 15.48 LW: 0.4M </p>2Race(s),<b>At Sea</b><p>Race Time: 4.00 PM<p>
+SUMMARY:Saturday Series 2<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160723T04:00
+DTEND;TZID=Europe/London:20160723T05:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 2</strong></p><p>Tide: 18.31 LW: 0.9M </p>1Race(s),<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 2<p>River Start</p>
+DTSTART;TZID=Europe/London:20160727T07:00
+DTEND;TZID=Europe/London:20160727T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>RS200 Open</strong></p><p>Tide: 16.18 HW: 3.2M </p>
+SUMMARY:RS200 Open<p>River Start</p>
+DTSTART;TZID=Europe/London:20160730T00:00
+DTEND;TZID=Europe/London:20160731T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Sunday Series</strong></p><p>Tide: 17.26 HW: 3.5M </p>3Race(s),<p>Race Time: 3.00 PM<p>
+SUMMARY:Sunday Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20160731T03:00
+DTEND;TZID=Europe/London:20160731T05:45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>King Cup</strong></p><p>Tide: 20.04 HW: 4M </p>1Race(s),Up-Spirits Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:King Cup<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160803T07:00
+DTEND;TZID=Europe/London:20160803T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Saturday Series 2</strong></p><p>Tide: 15.51 LW: 0.4M </p>2Race(s),<b>At Sea</b><p>Race Time: 4.00 PM<p>
+SUMMARY:Saturday Series 2<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160806T04:00
+DTEND;TZID=Europe/London:20160806T05:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 2</strong></p><p>Tide: 17.41 LW: 1.2M </p>1Race(s),Start-Box Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 2<p>Start-Box Start.</p>
+DTSTART;TZID=Europe/London:20160810T07:00
+DTEND;TZID=Europe/London:20160810T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Comet Trio Nationals</strong></p><p>Tide: 13.28 HW: 2.7M </p>2Race(s),
+SUMMARY:Comet Trio Nationals<p>River Start</p>
+DTSTART;TZID=Europe/London:20160812T00:00
+DTEND;TZID=Europe/London:20160812T01:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Comet Trio Nationals</strong></p><p>Tide: 14.36 HW: 2.7M </p>3Race(s),
+SUMMARY:Comet Trio Nationals<p>River Start</p>
+DTSTART;TZID=Europe/London:20160813T00:00
+DTEND;TZID=Europe/London:20160813T02:45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Comet Trio Nationals</strong></p><p>Tide: 16.11 HW: 2.9M </p>2Race(s),
+SUMMARY:Comet Trio Nationals<p>River Start</p>
+DTSTART;TZID=Europe/London:20160814T00:00
+DTEND;TZID=Europe/London:20160814T01:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 2</strong></p><p>Tide: 18.57 HW: 3.8M </p>1Race(s),Up-Spirits Start.<p>Race Time: 7.00 PM<p>
+SUMMARY:Wednesday Series 2<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160817T07:00
+DTEND;TZID=Europe/London:20160817T08:05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Saturday Series 2</strong></p><p>Tide: 14.59 LW: 0.2M </p>2Race(s),<b>At Sea</b><p>Race Time: 2.15 PM<p>
+SUMMARY:Saturday Series 2<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160820T02:15
+DTEND;TZID=Europe/London:20160820T04:10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 2</strong></p><p>Tide: 17.24 LW: 0.7M </p>1Race(s),Start-Box Start.<p>Race Time: 6.30 PM<p>
+SUMMARY:Wednesday Series 2<p>Start-Box Start.</p>
+DTSTART;TZID=Europe/London:20160824T06:30
+DTEND;TZID=Europe/London:20160824T07:35
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Bank Hol Mon</strong></p><b>No Race</b>
+SUMMARY:Bank Hol Mon<p><b>No Race</b></p>
+DTSTART;TZID=Europe/London:20160829T00:00
+DTEND;TZID=Europe/London:20160830T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Wednesday Series 2</strong></p><p>Tide: 18.58 HW: 3.9M </p>1Race(s),Up-Spirits Start.<p>Race Time: 6.30 PM<p>
+SUMMARY:Wednesday Series 2<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160831T06:30
+DTEND;TZID=Europe/London:20160831T07:35
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Saturday Series 2</strong></p><p>Tide: 14.58 LW: 0.2M </p>2Race(s),<b>At Sea</b><p>Race Time: 3.15 PM<p>
+SUMMARY:Saturday Series 2<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160903T03:15
+DTEND;TZID=Europe/London:20160903T05:10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>RS100 & RS300 Nationals</strong></p><p>Tide: 11.09 HW: 3.1M </p>
+SUMMARY:RS100 & RS300 Nationals<p>River Start</p>
+DTSTART;TZID=Europe/London:20160908T00:00
+DTEND;TZID=Europe/London:20160909T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>RS100 & RS300 Nationals</strong></p><p>Tide: 11.49 HW: 2.9M </p>
+SUMMARY:RS100 & RS300 Nationals<p>River Start</p>
+DTSTART;TZID=Europe/London:20160909T00:00
+DTEND;TZID=Europe/London:20160910T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>RS100 & RS300 Nationals</strong></p><p>Tide: 12.4 HW: 2.8M </p>
+SUMMARY:RS100 & RS300 Nationals<p>River Start</p>
+DTSTART;TZID=Europe/London:20160910T00:00
+DTEND;TZID=Europe/London:20160911T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>RS100 & RS300 Nationals</strong></p><p>Tide: 13.48 HW: 2.7M </p>
+SUMMARY:RS100 & RS300 Nationals<p>River Start</p>
+DTSTART;TZID=Europe/London:20160911T00:00
+DTEND;TZID=Europe/London:20160912T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>King Cup</strong></p><p>Tide: 17.38 HW: 3.6M </p>1Race(s),Up-Spirits Start.<p>Race Time: 6.30 PM<p>
+SUMMARY:King Cup<p>Up-Spirits Start.</p>
+DTSTART;TZID=Europe/London:20160914T06:30
+DTEND;TZID=Europe/London:20160914T07:35
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Dinghy AGM</strong></p>
+SUMMARY:Dinghy AGM<p>River Start</p>
+DTSTART;TZID=Europe/London:20160914T00:00
+DTEND;TZID=Europe/London:20160915T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Champagne Challenge</strong></p><p>Tide: 13.55 LW: 0.2M </p>
+SUMMARY:Champagne Challenge<p>River Start</p>
+DTSTART;TZID=Europe/London:20160917T00:00
+DTEND;TZID=Europe/London:20160918T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Bart's Bash</strong></p><p>Tide: 14.41 LW: 0.1M </p>
+SUMMARY:Bart's Bash<p>River Start</p>
+DTSTART;TZID=Europe/London:20160918T00:00
+DTEND;TZID=Europe/London:20160919T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Sunday Series</strong></p><p>Tide: 14.25 HW: 2.9M </p>2Race(s),<b>At Sea</b><p>Race Time: 12.00 AM<p>
+SUMMARY:Sunday Series<p><b>At Sea</b></p>
+DTSTART;TZID=Europe/London:20160925T12:00
+DTEND;TZID=Europe/London:20160925T13:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Winter Series</strong></p><p>Tide: 13.55 LW: 0.3M </p>2Race(s),<p>Race Time: 3.00 PM<p>
+SUMMARY:Winter Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20161001T03:00
+DTEND;TZID=Europe/London:20161001T04:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>RSFeva Grand Prix</strong></p><p>Tide: 11.14 HW: 3.1M </p>
+SUMMARY:RSFeva Grand Prix<p>River Start</p>
+DTSTART;TZID=Europe/London:20161008T00:00
+DTEND;TZID=Europe/London:20161009T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>RSFeva Grand Prix</strong></p><p>Tide: 12.04 HW: 2.9M </p>
+SUMMARY:RSFeva Grand Prix<p>River Start</p>
+DTSTART;TZID=Europe/London:20161009T00:00
+DTEND;TZID=Europe/London:20161010T00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Winter Series</strong></p><p>Tide: 12.39 LW: 0.3M </p>2Race(s),<p>Race Time: 2.00 PM<p>
+SUMMARY:Winter Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20161015T02:00
+DTEND;TZID=Europe/London:20161015T03:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Winter Series</strong></p><p>Tide: 12.41 HW: 3.1M </p>2Race(s),<p>Race Time: 11.00 AM<p>
+SUMMARY:Winter Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20161023T11:00
+DTEND;TZID=Europe/London:20161023T12:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Winter Series</strong></p><p>Tide: 12.42 LW: 0.5M </p>2Race(s),<p>Race Time: 3.00 PM<p>
+SUMMARY:Winter Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20161029T03:00
+DTEND;TZID=Europe/London:20161029T04:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Winter Series</strong></p><p>Tide: 9.51 HW: 3.4M </p>2Race(s),<p>Race Time: 10.00 AM<p>
+SUMMARY:Winter Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20161106T10:00
+DTEND;TZID=Europe/London:20161106T11:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Winter Series</strong></p><p>Tide: 16.27 HW: 3.9M </p>2Race(s),<p>Race Time: 2.00 PM<p>
+SUMMARY:Winter Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20161112T02:00
+DTEND;TZID=Europe/London:20161112T03:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Winter Series</strong></p><p>Tide: 10.24 HW: 3.6M </p>2Race(s),<p>Race Time: 10.00 AM<p>
+SUMMARY:Winter Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20161120T10:00
+DTEND;TZID=Europe/London:20161120T11:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Winter Series</strong></p><p>Tide: 16.28 HW: 3.5M </p>2Race(s),<p>Race Time: 2.00 PM<p>
+SUMMARY:Winter Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20161126T02:00
+DTEND;TZID=Europe/London:20161126T03:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Winter Series</strong></p><p>Tide: 9.01 HW: 3.7M </p>2Race(s),<p>Race Time: 10.00 AM<p>
+SUMMARY:Winter Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20161204T10:00
+DTEND;TZID=Europe/London:20161204T11:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Winter Series</strong></p><p>Tide: 14.45 HW: 3.5M </p>2Race(s),<p>Race Time: 2.00 PM<p>
+SUMMARY:Winter Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20161210T02:00
+DTEND;TZID=Europe/London:20161210T03:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Winter Series</strong></p><p>Tide: 14.57 LW: 0.3M </p>2Race(s),<p>Race Time: 2.00 PM<p>
+SUMMARY:Winter Series<p>River Start</p>
+DTSTART;TZID=Europe/London:20161217T02:00
+DTEND;TZID=Europe/London:20161217T03:55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><strong>Boxing Day</strong></p><p>Tide: 10.24 LW: 1M </p>1Race(s),<p>Race Time: 11.00 AM<p>
+SUMMARY:Boxing Day<p>River Start</p>
+DTSTART;TZID=Europe/London:20161226T11:00
+DTEND;TZID=Europe/London:20161226T12:05
+END:VEVENT
+END:VCALENDAR

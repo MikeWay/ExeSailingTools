@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eventCal xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0"
+	xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:h="http://www.w3.org/1999/xhtml"
+	xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0"
+	xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0"
+	xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0">
+	<event>
+		<type>DINGHY</type>
+		<description>
+			SYC Steamer
+			<p>Tide:
+				11.41</p>
+			<p> HW: 3.5M </p>
+			<p>Race Time:
+				10.30 AM</p>
+		</description>
+		<summary>SYC Steamer </summary>
+		<dateStart>
+			10:30;17/01/2016
+			<sortBy>20160117</sortBy>
+		</dateStart>
+		<dateEnd>
+			22:30;17/01/2016
+			<sortBy>20160117</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Roadford Rocket
+			<p>Race Time:
+				12.00 Noon</p>
+		</description>
+		<summary>Roadford Rocket </summary>
+		<dateStart>
+			12:00;13/03/2016
+			<sortBy>20160313</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;14/03/2016
+			<sortBy>20160314</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wimbleball Beastie
+			<p>Race Time:
+				12.00 Noon</p>
+		</description>
+		<summary>Wimbleball Beastie </summary>
+		<dateStart>
+			12:00;20/03/2016
+			<sortBy>20160320</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;21/03/2016
+			<sortBy>20160321</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>Easter No Race</description>
+		<summary>Easter No Race</summary>
+		<dateStart>
+			00:00;27/03/2016
+			<sortBy>20160327</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;28/03/2016
+			<sortBy>20160328</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sun
+			<p>Tide:
+				9.38</p>
+			<p> HW: 4.2M </p>
+			3Race(s),
+			<p>Race Time:
+				10.00 AM</p>
+		</description>
+		<summary>Sun River Start</summary>
+		<dateStart>
+			10:00;10/04/2016
+			<sortBy>20160410</sortBy>
+		</dateStart>
+		<dateEnd>
+			12:45;10/04/2016
+			<sortBy>20160410</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			King Cup
+			<p>Tide:
+				17.37</p>
+			<p> LW: 0.8M </p>
+			1Race(s),Start-Box Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>King Cup Start-Box Start.</summary>
+		<dateStart>
+			19:00;13/04/2016
+			<sortBy>20160413</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;13/04/2016
+			<sortBy>20160413</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sat 1 Junior/N.Adult
+			<p>Tide:
+				15.2</p>
+			<p> HW: 2.7M </p>
+			3Race(s),
+			<p>Race Time:
+				2.00 PM</p>
+		</description>
+		<summary>Sat 1 Junior/N.Adult River Start</summary>
+		<dateStart>
+			14:00;16/04/2016
+			<sortBy>20160416</sortBy>
+		</dateStart>
+		<dateEnd>
+			16:45;16/04/2016
+			<sortBy>20160416</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 1
+			<p>Tide:
+				18.47</p>
+			<p> HW: 3.6M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 1 Up-Spirits Start.</summary>
+		<dateStart>
+			19:00;20/04/2016
+			<sortBy>20160420</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;20/04/2016
+			<sortBy>20160420</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sat 1
+			<p>Tide:
+				14.31</p>
+			<p> LW: 0.4M </p>
+			2Race(s),At Sea
+			<p>Race Time:
+				2.45 PM</p>
+		</description>
+		<summary>Sat 1 At Sea</summary>
+		<dateStart>
+			14:45;23/04/2016
+			<sortBy>20160423</sortBy>
+		</dateStart>
+		<dateEnd>
+			16:40;23/04/2016
+			<sortBy>20160423</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 1
+			<p>Tide:
+				22.27</p>
+			<p> HW: 3.4M </p>
+			1Race(s),Start-Box Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 1 Start-Box Start.</summary>
+		<dateStart>
+			19:00;27/04/2016
+			<sortBy>20160427</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;27/04/2016
+			<sortBy>20160427</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sun
+			<p>Tide:
+				13.48</p>
+			<p> HW: 2.8M </p>
+			2Race(s),At Sea
+			<p>Race Time:
+				12.00 Noon</p>
+		</description>
+		<summary>Sun At Sea</summary>
+		<dateStart>
+			12:00;01/05/2016
+			<sortBy>20160501</sortBy>
+		</dateStart>
+		<dateEnd>
+			13:55;01/05/2016
+			<sortBy>20160501</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			King Cup
+			<p>Tide:
+				15.13</p>
+			<p> HW: 3M </p>
+			1Race(s),
+			<p>Race Time:
+				2.00 PM</p>
+		</description>
+		<summary>King Cup River Start</summary>
+		<dateStart>
+			14:00;02/05/2016
+			<sortBy>20160502</sortBy>
+		</dateStart>
+		<dateEnd>
+			15:05;02/05/2016
+			<sortBy>20160502</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			King Cup
+			<p>Tide:
+				17.33</p>
+			<p> HW: 3.7M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>King Cup Up-Spirits Start.</summary>
+		<dateStart>
+			19:00;04/05/2016
+			<sortBy>20160504</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;04/05/2016
+			<sortBy>20160504</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sat 1
+			<p>Tide:
+				14.01</p>
+			<p> LW: -0.1M </p>
+			2Race(s),At Sea
+			<p>Race Time:
+				2.15 PM</p>
+		</description>
+		<summary>Sat 1 At Sea</summary>
+		<dateStart>
+			14:15;07/05/2016
+			<sortBy>20160507</sortBy>
+		</dateStart>
+		<dateEnd>
+			16:10;07/05/2016
+			<sortBy>20160507</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 1
+			<p>Tide:
+				22.54</p>
+			<p> HW: 3.7M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 1 Up-Spirits Start.</summary>
+		<dateStart>
+			19:00;11/05/2016
+			<sortBy>20160511</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;11/05/2016
+			<sortBy>20160511</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			RSFeva Open
+			<p>Tide:
+				13.31</p>
+			<p> HW: 2.7M </p>
+		</description>
+		<summary>RSFeva Open </summary>
+		<dateStart>
+			00:00;14/05/2016
+			<sortBy>20160514</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;15/05/2016
+			<sortBy>20160515</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sun
+			<p>Tide:
+				14.38</p>
+			<p> HW: 2.7M </p>
+			2Race(s),At Sea
+			<p>Race Time:
+				1.00 PM</p>
+		</description>
+		<summary>Sun At Sea</summary>
+		<dateStart>
+			13:00;15/05/2016
+			<sortBy>20160515</sortBy>
+		</dateStart>
+		<dateEnd>
+			14:55;15/05/2016
+			<sortBy>20160515</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 1
+			<p>Tide:
+				17.26</p>
+			<p> HW: 3.2M </p>
+			1Race(s),Start-Box Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 1 Start-Box Start.</summary>
+		<dateStart>
+			19:00;18/05/2016
+			<sortBy>20160518</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;18/05/2016
+			<sortBy>20160518</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sun
+			<p>Tide:
+				13.57</p>
+			<p> LW: 0.5M </p>
+			2Race(s),At Sea
+			<p>Race Time:
+				2.15 PM</p>
+		</description>
+		<summary>Sun At Sea</summary>
+		<dateStart>
+			14:15;22/05/2016
+			<sortBy>20160522</sortBy>
+		</dateStart>
+		<dateEnd>
+			16:10;22/05/2016
+			<sortBy>20160522</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 1
+			<p>Tide:
+				21.42</p>
+			<p> HW: 3.7M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 1 Up-Spirits Start.</summary>
+		<dateStart>
+			19:00;25/05/2016
+			<sortBy>20160525</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;25/05/2016
+			<sortBy>20160525</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Super Nova Open
+			<p>Tide:
+				11.28</p>
+			<p> HW: 3.1M </p>
+		</description>
+		<summary>Super Nova Open </summary>
+		<dateStart>
+			00:00;28/05/2016
+			<sortBy>20160528</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;29/05/2016
+			<sortBy>20160529</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Super Nova Open
+			<p>Tide:
+				12.21</p>
+			<p> HW: 3M </p>
+		</description>
+		<summary>Super Nova Open </summary>
+		<dateStart>
+			00:00;29/05/2016
+			<sortBy>20160529</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;30/05/2016
+			<sortBy>20160530</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			King Cup
+			<p>Tide:
+				13.26</p>
+			<p> HW: 2.9M </p>
+			1Race(s),At Sea
+			<p>Race Time:
+				12.00 Noon</p>
+		</description>
+		<summary>King Cup At Sea</summary>
+		<dateStart>
+			12:00;30/05/2016
+			<sortBy>20160530</sortBy>
+		</dateStart>
+		<dateEnd>
+			13:05;30/05/2016
+			<sortBy>20160530</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			King Cup
+			<p>Tide:
+				22.11</p>
+			<p> LW: 0.8M </p>
+			1Race(s),Start-Box Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>King Cup Start-Box Start.</summary>
+		<dateStart>
+			19:00;01/06/2016
+			<sortBy>20160601</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;01/06/2016
+			<sortBy>20160601</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sun
+			<p>Tide:
+				13.41</p>
+			<p> LW: 0.1M </p>
+			2Race(s),At Sea
+			<p>Race Time:
+				2.00 PM</p>
+		</description>
+		<summary>Sun At Sea</summary>
+		<dateStart>
+			14:00;05/06/2016
+			<sortBy>20160605</sortBy>
+		</dateStart>
+		<dateEnd>
+			15:55;05/06/2016
+			<sortBy>20160605</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 1
+			<p>Tide:
+				21.58</p>
+			<p> HW: 3.9M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 1 Up-Spirits Start.</summary>
+		<dateStart>
+			19:00;08/06/2016
+			<sortBy>20160608</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;08/06/2016
+			<sortBy>20160608</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sat 1 Junior/N.Adult
+			<p>Tide:
+				17.45</p>
+			<p> LW: 0.9M </p>
+			3Race(s),
+			<p>Race Time:
+				2.00 PM</p>
+		</description>
+		<summary>Sat 1 Junior/N.Adult River Start</summary>
+		<dateStart>
+			14:00;11/06/2016
+			<sortBy>20160611</sortBy>
+		</dateStart>
+		<dateEnd>
+			16:45;11/06/2016
+			<sortBy>20160611</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			2RJS ESC
+			<p>Tide:
+				12.36</p>
+			<p> HW: 2.8M </p>
+		</description>
+		<summary>2RJS ESC </summary>
+		<dateStart>
+			00:00;12/06/2016
+			<sortBy>20160612</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;13/06/2016
+			<sortBy>20160613</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 1
+			<p>Tide:
+				21.35</p>
+			<p> LW: 1.2M </p>
+			1Race(s),Start-Box Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 1 Start-Box Start.</summary>
+		<dateStart>
+			19:00;15/06/2016
+			<sortBy>20160615</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;15/06/2016
+			<sortBy>20160615</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sat 1
+			<p>Tide:
+				18.17</p>
+			<p> HW: 3.5M </p>
+			3Race(s),
+			<p>Race Time:
+				4.00 PM</p>
+		</description>
+		<summary>Sat 1 River Start</summary>
+		<dateStart>
+			16:00;18/06/2016
+			<sortBy>20160618</sortBy>
+		</dateStart>
+		<dateEnd>
+			18:45;18/06/2016
+			<sortBy>20160618</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 1
+			<p>Tide:
+				20.58</p>
+			<p> HW: 3.8M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 1 Up-Spirits Start.</summary>
+		<dateStart>
+			19:00;22/06/2016
+			<sortBy>20160622</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;22/06/2016
+			<sortBy>20160622</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sun
+			<p>Tide:
+				11.18</p>
+			<p> HW: 3.4M </p>
+			3Race(s),
+			<p>Race Time:
+				10.00 AM</p>
+		</description>
+		<summary>Sun River Start</summary>
+		<dateStart>
+			10:00;26/06/2016
+			<sortBy>20160626</sortBy>
+		</dateStart>
+		<dateEnd>
+			12:45;26/06/2016
+			<sortBy>20160626</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 2
+			<p>Tide:
+				20.13</p>
+			<p> LW: 1M </p>
+			1Race(s),Start-Box Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 2 Start-Box Start.</summary>
+		<dateStart>
+			19:00;29/06/2016
+			<sortBy>20160629</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;29/06/2016
+			<sortBy>20160629</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sat 2
+			<p>Tide:
+				17.42</p>
+			<p> HW: 3.7M </p>
+			3Race(s),
+			<p>Race Time:
+				4.00 PM</p>
+		</description>
+		<summary>Sat 2 River Start</summary>
+		<dateStart>
+			16:00;02/07/2016
+			<sortBy>20160702</sortBy>
+		</dateStart>
+		<dateEnd>
+			18:45;02/07/2016
+			<sortBy>20160702</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>2RJS Teign </description>
+		<summary>2RJS Teign </summary>
+		<dateStart>
+			00:00;03/07/2016
+			<sortBy>20160703</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;04/07/2016
+			<sortBy>20160704</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			King Cup
+			<p>Tide:
+				21.01</p>
+			<p> HW: 4M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>King Cup Up-Spirits Start.</summary>
+		<dateStart>
+			19:00;06/07/2016
+			<sortBy>20160706</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;06/07/2016
+			<sortBy>20160706</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			2RJS SYC
+			<p>Tide:
+				10.41</p>
+			<p> HW: 3.5M </p>
+		</description>
+		<summary>2RJS SYC </summary>
+		<dateStart>
+			00:00;09/07/2016
+			<sortBy>20160709</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;10/07/2016
+			<sortBy>20160710</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sun Junior/N.Adult
+			<p>Tide:
+				11.13</p>
+			<p> HW: 3.2M </p>
+			3Race(s),
+			<p>Race Time:
+				10.00 AM</p>
+		</description>
+		<summary>Sun Junior/N.Adult River Start</summary>
+		<dateStart>
+			10:00;10/07/2016
+			<sortBy>20160710</sortBy>
+		</dateStart>
+		<dateEnd>
+			12:45;10/07/2016
+			<sortBy>20160710</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 2
+			<p>Tide:
+				19.25</p>
+			<p> LW: 1.3M </p>
+			1Race(s),Start-Box Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 2 Start-Box Start.</summary>
+		<dateStart>
+			19:00;13/07/2016
+			<sortBy>20160713</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;13/07/2016
+			<sortBy>20160713</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Exe Regatta LSC
+			<p>Tide:
+				16.5</p>
+			<p> HW: 3.1M </p>
+		</description>
+		<summary>Exe Regatta LSC </summary>
+		<dateStart>
+			00:00;16/07/2016
+			<sortBy>20160716</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;17/07/2016
+			<sortBy>20160717</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Exe Regatta LSC
+			<p>Tide:
+				11.16</p>
+			<p> LW: 0.9M </p>
+		</description>
+		<summary>Exe Regatta LSC </summary>
+		<dateStart>
+			00:00;17/07/2016
+			<sortBy>20160717</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;18/07/2016
+			<sortBy>20160718</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 2
+			<p>Tide:
+				20.05</p>
+			<p> HW: 3.9M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 2 Up-Spirits Start.</summary>
+		<dateStart>
+			19:00;20/07/2016
+			<sortBy>20160720</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;20/07/2016
+			<sortBy>20160720</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sat 2
+			<p>Tide:
+				15.48</p>
+			<p> LW: 0.4M </p>
+			2Race(s),At Sea
+			<p>Race Time:
+				4.00 PM</p>
+		</description>
+		<summary>Sat 2 At Sea</summary>
+		<dateStart>
+			16:00;23/07/2016
+			<sortBy>20160723</sortBy>
+		</dateStart>
+		<dateEnd>
+			17:55;23/07/2016
+			<sortBy>20160723</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 2
+			<p>Tide:
+				18.31</p>
+			<p> LW: 0.9M </p>
+			1Race(s),
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 2 River Start</summary>
+		<dateStart>
+			19:00;27/07/2016
+			<sortBy>20160727</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;27/07/2016
+			<sortBy>20160727</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			RS200 Open
+			<p>Tide:
+				16.18</p>
+			<p> HW: 3.2M </p>
+		</description>
+		<summary>RS200 Open </summary>
+		<dateStart>
+			00:00;30/07/2016
+			<sortBy>20160730</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;31/07/2016
+			<sortBy>20160731</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sun Junior/N.Adult
+			<p>Tide:
+				17.26</p>
+			<p> HW: 3.5M </p>
+			3Race(s),
+			<p>Race Time:
+				3.00 PM</p>
+		</description>
+		<summary>Sun Junior/N.Adult River Start</summary>
+		<dateStart>
+			15:00;31/07/2016
+			<sortBy>20160731</sortBy>
+		</dateStart>
+		<dateEnd>
+			17:45;31/07/2016
+			<sortBy>20160731</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			King Cup
+			<p>Tide:
+				20.04</p>
+			<p> HW: 4M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>King Cup Up-Spirits Start.</summary>
+		<dateStart>
+			19:00;03/08/2016
+			<sortBy>20160803</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;03/08/2016
+			<sortBy>20160803</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sat 2
+			<p>Tide:
+				15.51</p>
+			<p> LW: 0.4M </p>
+			2Race(s),At Sea
+			<p>Race Time:
+				4.00 PM</p>
+		</description>
+		<summary>Sat 2 At Sea</summary>
+		<dateStart>
+			16:00;06/08/2016
+			<sortBy>20160806</sortBy>
+		</dateStart>
+		<dateEnd>
+			17:55;06/08/2016
+			<sortBy>20160806</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 2
+			<p>Tide:
+				17.41</p>
+			<p> LW: 1.2M </p>
+			1Race(s),Start-Box Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 2 Start-Box Start.</summary>
+		<dateStart>
+			19:00;10/08/2016
+			<sortBy>20160810</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;10/08/2016
+			<sortBy>20160810</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Comet Trio Nationals
+			<p>Tide:
+				13.28</p>
+			<p> HW: 2.7M </p>
+			2Race(s),
+		</description>
+		<summary>Comet Trio Nationals River Start</summary>
+		<dateStart>
+			00:00;12/08/2016
+			<sortBy>20160812</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;12/08/2016
+			<sortBy>20160812</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Comet Trio Nationals
+			<p>Tide:
+				14.36</p>
+			<p> HW: 2.7M </p>
+			3Race(s),
+		</description>
+		<summary>Comet Trio Nationals River Start</summary>
+		<dateStart>
+			00:00;13/08/2016
+			<sortBy>20160813</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;13/08/2016
+			<sortBy>20160813</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Comet Trio Nationals
+			<p>Tide:
+				16.11</p>
+			<p> HW: 2.9M </p>
+			2Race(s),
+		</description>
+		<summary>Comet Trio Nationals River Start</summary>
+		<dateStart>
+			00:00;14/08/2016
+			<sortBy>20160814</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;14/08/2016
+			<sortBy>20160814</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 2
+			<p>Tide:
+				18.57</p>
+			<p> HW: 3.8M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				7.00 PM</p>
+		</description>
+		<summary>Wed 2 Up-Spirits Start.</summary>
+		<dateStart>
+			19:00;17/08/2016
+			<sortBy>20160817</sortBy>
+		</dateStart>
+		<dateEnd>
+			20:05;17/08/2016
+			<sortBy>20160817</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sat 2
+			<p>Tide:
+				14.59</p>
+			<p> LW: 0.2M </p>
+			2Race(s),At Sea
+			<p>Race Time:
+				2.15 PM</p>
+		</description>
+		<summary>Sat 2 At Sea</summary>
+		<dateStart>
+			14:15;20/08/2016
+			<sortBy>20160820</sortBy>
+		</dateStart>
+		<dateEnd>
+			16:10;20/08/2016
+			<sortBy>20160820</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 2
+			<p>Tide:
+				17.24</p>
+			<p> LW: 0.7M </p>
+			1Race(s),Start-Box Start.
+			<p>Race Time:
+				6.30 PM</p>
+		</description>
+		<summary>Wed 2 Start-Box Start.</summary>
+		<dateStart>
+			18:30;24/08/2016
+			<sortBy>20160824</sortBy>
+		</dateStart>
+		<dateEnd>
+			19:35;24/08/2016
+			<sortBy>20160824</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>Bank Hol Mon No Race</description>
+		<summary>Bank Hol Mon No Race</summary>
+		<dateStart>
+			00:00;29/08/2016
+			<sortBy>20160829</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;30/08/2016
+			<sortBy>20160830</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Wed 2
+			<p>Tide:
+				18.58</p>
+			<p> HW: 3.9M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				6.30 PM</p>
+		</description>
+		<summary>Wed 2 Up-Spirits Start.</summary>
+		<dateStart>
+			18:30;31/08/2016
+			<sortBy>20160831</sortBy>
+		</dateStart>
+		<dateEnd>
+			19:35;31/08/2016
+			<sortBy>20160831</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sat 2
+			<p>Tide:
+				14.58</p>
+			<p> LW: 0.2M </p>
+			2Race(s),At Sea
+			<p>Race Time:
+				3.15 PM</p>
+		</description>
+		<summary>Sat 2 At Sea</summary>
+		<dateStart>
+			15:15;03/09/2016
+			<sortBy>20160903</sortBy>
+		</dateStart>
+		<dateEnd>
+			17:10;03/09/2016
+			<sortBy>20160903</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>RS100
+			&amp; RS300 Nationals
+			<p>Tide:
+				11.09</p>
+			<p> HW: 3.1M </p>
+		</description>
+		<summary>RS100 &amp; RS300 Nationals </summary>
+		<dateStart>
+			00:00;08/09/2016
+			<sortBy>20160908</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;09/09/2016
+			<sortBy>20160909</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>RS100
+			&amp; RS300 Nationals
+			<p>Tide:
+				11.49</p>
+			<p> HW: 2.9M </p>
+		</description>
+		<summary>RS100 &amp; RS300 Nationals </summary>
+		<dateStart>
+			00:00;09/09/2016
+			<sortBy>20160909</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;10/09/2016
+			<sortBy>20160910</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>RS100
+			&amp; RS300 Nationals
+			<p>Tide:
+				12.4</p>
+			<p> HW: 2.8M </p>
+		</description>
+		<summary>RS100 &amp; RS300 Nationals </summary>
+		<dateStart>
+			00:00;10/09/2016
+			<sortBy>20160910</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;11/09/2016
+			<sortBy>20160911</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>RS100
+			&amp; RS300 Nationals
+			<p>Tide:
+				13.48</p>
+			<p> HW: 2.7M </p>
+		</description>
+		<summary>RS100 &amp; RS300 Nationals </summary>
+		<dateStart>
+			00:00;11/09/2016
+			<sortBy>20160911</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;12/09/2016
+			<sortBy>20160912</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			King Cup
+			<p>Tide:
+				17.38</p>
+			<p> HW: 3.6M </p>
+			1Race(s),Up-Spirits Start.
+			<p>Race Time:
+				6.30 PM</p>
+		</description>
+		<summary>King Cup Up-Spirits Start.</summary>
+		<dateStart>
+			18:30;14/09/2016
+			<sortBy>20160914</sortBy>
+		</dateStart>
+		<dateEnd>
+			19:35;14/09/2016
+			<sortBy>20160914</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>Dinghy AGM </description>
+		<summary>Dinghy AGM </summary>
+		<dateStart>
+			00:00;14/09/2016
+			<sortBy>20160914</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;15/09/2016
+			<sortBy>20160915</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Bart's Bash
+			<p>Tide:
+				14.41</p>
+			<p> LW: 0.1M </p>
+		</description>
+		<summary>Bart's Bash  </summary>
+		<dateStart>
+			00:00;18/09/2016
+			<sortBy>20160918</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;19/09/2016
+			<sortBy>20160919</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Sun Junior/N. Adult
+			<p>Tide:
+				14.25</p>
+			<p> HW: 2.9M </p>
+			2Race(s),At Sea
+			<p>Race Time:
+				12.00 Noon</p>
+		</description>
+		<summary>Sun Junior/N. Adult At Sea</summary>
+		<dateStart>
+			12:00;25/09/2016
+			<sortBy>20160925</sortBy>
+		</dateStart>
+		<dateEnd>
+			13:55;25/09/2016
+			<sortBy>20160925</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Winter
+			<p>Tide:
+				13.55</p>
+			<p> LW: 0.3M </p>
+			2Race(s),
+			<p>Race Time:
+				3.00 PM</p>
+		</description>
+		<summary>Winter River Start</summary>
+		<dateStart>
+			15:00;01/10/2016
+			<sortBy>20161001</sortBy>
+		</dateStart>
+		<dateEnd>
+			16:55;01/10/2016
+			<sortBy>20161001</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			RSFeva Grand Prix
+			<p>Tide:
+				11.14</p>
+			<p> HW: 3.1M </p>
+		</description>
+		<summary>RSFeva Grand Prix </summary>
+		<dateStart>
+			00:00;08/10/2016
+			<sortBy>20161008</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;09/10/2016
+			<sortBy>20161009</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			RSFeva Grand Prix
+			<p>Tide:
+				12.04</p>
+			<p> HW: 2.9M </p>
+		</description>
+		<summary>RSFeva Grand Prix </summary>
+		<dateStart>
+			00:00;09/10/2016
+			<sortBy>20161009</sortBy>
+		</dateStart>
+		<dateEnd>
+			00:00;10/10/2016
+			<sortBy>20161010</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Winter
+			<p>Tide:
+				12.39</p>
+			<p> LW: 0.3M </p>
+			2Race(s),
+			<p>Race Time:
+				2.00 PM</p>
+		</description>
+		<summary>Winter River Start</summary>
+		<dateStart>
+			14:00;15/10/2016
+			<sortBy>20161015</sortBy>
+		</dateStart>
+		<dateEnd>
+			15:55;15/10/2016
+			<sortBy>20161015</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Winter Junior/N. Adult
+			<p>Tide:
+				12.41</p>
+			<p> HW: 3.1M </p>
+			2Race(s),
+			<p>Race Time:
+				11.00 AM</p>
+		</description>
+		<summary>Winter Junior/N. Adult River Start</summary>
+		<dateStart>
+			11:00;23/10/2016
+			<sortBy>20161023</sortBy>
+		</dateStart>
+		<dateEnd>
+			12:55;23/10/2016
+			<sortBy>20161023</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Winter
+			<p>Tide:
+				12.42</p>
+			<p> LW: 0.5M </p>
+			2Race(s),
+			<p>Race Time:
+				3.00 PM</p>
+		</description>
+		<summary>Winter River Start</summary>
+		<dateStart>
+			15:00;29/10/2016
+			<sortBy>20161029</sortBy>
+		</dateStart>
+		<dateEnd>
+			16:55;29/10/2016
+			<sortBy>20161029</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Winter
+			<p>Tide:
+				9.51</p>
+			<p> HW: 3.4M </p>
+			2Race(s),
+			<p>Race Time:
+				10.00 AM</p>
+		</description>
+		<summary>Winter River Start</summary>
+		<dateStart>
+			10:00;06/11/2016
+			<sortBy>20161106</sortBy>
+		</dateStart>
+		<dateEnd>
+			11:55;06/11/2016
+			<sortBy>20161106</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Winter
+			<p>Tide:
+				16.27</p>
+			<p> HW: 3.9M </p>
+			2Race(s),
+			<p>Race Time:
+				2.00 PM</p>
+		</description>
+		<summary>Winter River Start</summary>
+		<dateStart>
+			14:00;12/11/2016
+			<sortBy>20161112</sortBy>
+		</dateStart>
+		<dateEnd>
+			15:55;12/11/2016
+			<sortBy>20161112</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Winter
+			<p>Tide:
+				10.24</p>
+			<p> HW: 3.6M </p>
+			2Race(s),
+			<p>Race Time:
+				10.00 AM</p>
+		</description>
+		<summary>Winter River Start</summary>
+		<dateStart>
+			10:00;20/11/2016
+			<sortBy>20161120</sortBy>
+		</dateStart>
+		<dateEnd>
+			11:55;20/11/2016
+			<sortBy>20161120</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Winter
+			<p>Tide:
+				16.28</p>
+			<p> HW: 3.5M </p>
+			2Race(s),
+			<p>Race Time:
+				2.00 PM</p>
+		</description>
+		<summary>Winter River Start</summary>
+		<dateStart>
+			14:00;26/11/2016
+			<sortBy>20161126</sortBy>
+		</dateStart>
+		<dateEnd>
+			15:55;26/11/2016
+			<sortBy>20161126</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Winter
+			<p>Tide:
+				9.01</p>
+			<p> HW: 3.7M </p>
+			2Race(s),
+			<p>Race Time:
+				10.00 AM</p>
+		</description>
+		<summary>Winter River Start</summary>
+		<dateStart>
+			10:00;04/12/2016
+			<sortBy>20161204</sortBy>
+		</dateStart>
+		<dateEnd>
+			11:55;04/12/2016
+			<sortBy>20161204</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Winter
+			<p>Tide:
+				14.45</p>
+			<p> HW: 3.5M </p>
+			2Race(s),
+			<p>Race Time:
+				2.00 PM</p>
+		</description>
+		<summary>Winter River Start</summary>
+		<dateStart>
+			14:00;10/12/2016
+			<sortBy>20161210</sortBy>
+		</dateStart>
+		<dateEnd>
+			15:55;10/12/2016
+			<sortBy>20161210</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Winter
+			<p>Tide:
+				14.57</p>
+			<p> LW: 0.3M </p>
+			2Race(s),
+			<p>Race Time:
+				2.00 PM</p>
+		</description>
+		<summary>Winter River Start</summary>
+		<dateStart>
+			14:00;17/12/2016
+			<sortBy>20161217</sortBy>
+		</dateStart>
+		<dateEnd>
+			15:55;17/12/2016
+			<sortBy>20161217</sortBy>
+		</dateEnd>
+	</event>
+	<event>
+		<type>DINGHY</type>
+		<description>
+			Boxing Day
+			<p>Tide:
+				10.24</p>
+			<p> LW: 1M </p>
+			1Race(s),
+			<p>Race Time:
+				11.00 AM</p>
+		</description>
+		<summary>Boxing Day River Start</summary>
+		<dateStart>
+			11:00;26/12/2016
+			<sortBy>20161226</sortBy>
+		</dateStart>
+		<dateEnd>
+			12:05;26/12/2016
+			<sortBy>20161226</sortBy>
+		</dateEnd>
+	</event>
+</eventCal>
